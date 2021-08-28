@@ -22,6 +22,8 @@ A curated selection of materials discussing transactional and non-transactional 
 
 [Generalized Isolation Level Definitions, Adya et al. (2000).](http://pmg.csail.mit.edu/papers/icde00.pdf) (Graph-based isolation level definitions of PL-{1, 2, 2.99, 3})
 
+[A read-only transaction anomaly under snapshot isolation, Fekete et al., (2004).](https://dl.acm.org/doi/10.1145/1031570.1031573)
+
 [Database Replication Using Generalized Snapshot Isolation, Elnikety et al., (2005).](https://infoscience.epfl.ch/record/53561/files/srds2005-gsi.pdf) (Generalised Snapshot Isolation, Prefix Consistent SI)
 
 [Lazy Database Replication with Snapshot Isolation, Daudjee et al, (2006).](http://www.vldb.org/conf/2006/p715-daudjee.pdf) (Strong Session SI)
