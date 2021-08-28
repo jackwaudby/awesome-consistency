@@ -67,7 +67,7 @@ Snapshot Isolation)
 
 ### Martin Kleppmann
 
-[Hermitage: Testing the "I" in ACID](https://martin.kleppmann.com/2014/11/25/hermitage-testing-the-i-in-acid.html)
++ [Hermitage: Testing the "I" in ACID](https://martin.kleppmann.com/2014/11/25/hermitage-testing-the-i-in-acid.html)
 
 
 
