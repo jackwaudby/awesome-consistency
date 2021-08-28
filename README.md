@@ -55,7 +55,7 @@ Snapshot Isolation)
 + [Introduction to Transaction Isolation Levels](http://dbmsmusings.blogspot.com/2019/05/introduction-to-transaction-isolation.html)
 + [Correctness Anomalies under Serializable Isolation](http://dbmsmusings.blogspot.com/2019/06/correctness-anomalies-under.html)
 + [Overview of Consistency Levels in Database Systems](http://dbmsmusings.blogspot.com/2019/07/overview-of-consistency-levels-in.html)
-+ [The dangers of conditional consistency guarantees](ttp://dbmsmusings.blogspot.com/2019/07/the-dangers-of-conditional-consistency.html)
++ [The dangers of conditional consistency guarantees](http://dbmsmusings.blogspot.com/2019/07/the-dangers-of-conditional-consistency.html)
 + [An explanation of the difference between Isolation levels vs. Consistency levels](http://dbmsmusings.blogspot.com/2019/08/an-explanation-of-difference-between.html)
 
 ### Peter Bailis
