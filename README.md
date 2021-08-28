@@ -43,7 +43,7 @@ Snapshot Isolation)
 
 [A Framework for Transactional Consistency Models with Atomic Visibility, Cerone et al., (2015).](https://drops.dagstuhl.de/opus/volltexte/2015/5375/pdf/15.pdf) (Isolation level definitions based on visibility and arbitration)
 
-[Consistency in Non-Transactional Distributed Storage Systems, Viotti et al., (2016).](https://arxiv.org/pdf/1512.00168.pdf) (Excellent survery of non-transactional semantics)
+[Consistency in Non-Transactional Distributed Storage Systems, Viotti et al., (2016).](https://arxiv.org/pdf/1512.00168.pdf) (Excellent survey of non-transactional semantics)
 
 [Seeing is Believing: A Client-Centric Specification of Database Isolation, Crooks et al., (2017).](http://www.cs.cornell.edu/lorenzo/papers/Crooks17Seeing.pdf) (State-based isolation level definitions) 
 
