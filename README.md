@@ -1,6 +1,6 @@
 # Awesome Consistency 
 
-A curated selection of materials describing and discussing data consistency models. 
+A curated selection of materials discussing transactional and non-transactional consistency models. 
 
 ## Papers
 
@@ -8,7 +8,7 @@ A curated selection of materials describing and discussing data consistency mode
 
 [How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs. Lamport, (1979).](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/How-to-Make-a-Multiprocessor-Computer-That-Correctly-Executes-Multiprocess-Programs.pdf) (Sequential Consistency)
 
-[PRAM: A Scalable Shared Memory, Lipton et al., (1998)](https://www.cs.princeton.edu/research/techreps/TR-180-88) (PRAM = read your writes, monotonic writes, monotonic reads). 
+[PRAM: A Scalable Shared Memory, Lipton et al., (1988)](https://www.cs.princeton.edu/research/techreps/TR-180-88) (PRAM)
 
 [Linearizability: A Correctness Condition for Concurrent Objects, Herlihy et al. (1990).](https://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf) (Linearizability)
 
@@ -28,12 +28,12 @@ A curated selection of materials describing and discussing data consistency mode
 
 [Eventually Consistent, Vogels, (2009).](https://dl.acm.org/doi/pdf/10.1145/1435417.1435432) (Eventual, Causal, Read Your Writes, Sessionm Monotonic Read, Monotonic Write Consistency)
 
+[Transactional storage for geo-replicated systems, Sovran et al., (2011).](http://www.news.cs.nyu.edu/~jinyang/pub/walter-sosp11.pdf) (Parallel
+Snapshot Isolation)
+
 [Replicated Data Consistency Explained Through Baseball, Terry, (2013).](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/ConsistencyAndBaseballReport.pdf) (Consistent Prefix, Bounded Staleness, Monotonic Reads, Read My Writes, Eventual, and Strong Consistency)
 
 [Non-Monotonic Snapshot Isolation: scalable and strong consistency for geo-replicated transactional systems, Ardekani et al., (2013).](https://pages.lip6.fr/Marc.Shapiro/papers/NMSI-SRDS-2013.pdf) (Non-Monotonic Snapshot Isolation)
-
-[Transactional storage for geo-replicated systems, Sovran et al., (2011).](http://www.news.cs.nyu.edu/~jinyang/pub/walter-sosp11.pdf) (Parallel
-Snapshot Isolation)
 
 [Highly Available Transactions: Virtues and Limitations (Extended Version), Bailis et al. (2014).](https://arxiv.org/abs/1302.0309.pdf) (Monotonic Atomic View)
 
