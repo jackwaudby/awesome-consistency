@@ -47,7 +47,7 @@ Snapshot Isolation)
 
 [Seeing is Believing: A Client-Centric Specification of Database Isolation, Crooks et al., (2017).](http://www.cs.cornell.edu/lorenzo/papers/Crooks17Seeing.pdf) (State-based isolation level definitions) 
 
-[Fast General Distributed Transactions with Opacity, Shamis et al., (2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/mod057.pdf) (Opacity)
+[Fast General Distributed Transactions with Opacity, Shamis et al., (2019).](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/mod057.pdf) (Opacity)
 
 [Elle: Inferring Isolation Anomalies from Experimental Observations, Kingsbury et al., (2021).](https://arxiv.org/pdf/2003.10554.pdf)
 
