@@ -1,6 +1,6 @@
 # Awesome Consistency 
 
- A curated selection materials describing and discussing data consistency models.
+ A curated selection of materials describing and discussing data consistency models.
 
 [Introduction to Transaction Isolation Levels](http://dbmsmusings.blogspot.com/2019/05/introduction-to-transaction-isolation.html)
 
