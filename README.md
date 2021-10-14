@@ -16,7 +16,7 @@ A curated selection of materials discussing transactional and non-transactional 
 
 [Session Guarantees for Weakly Consistent Replicated Data, Terry et al., (1994).](https://www.cs.utexas.edu/~lorenzo/corsi/cs380d/papers/SessionGuaranteesBayou.pdf) (Read Your Writes, Monotonic Reads, Writes Follow Reads, Monotonic Writes)
 
-[A Critique of ANSI SQL Isolation Levels, Berenson et al., (1995).](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf) (Snapshot Isolation)
+[A Critique of ANSI SQL Isolation Levels, Berenson et al., (1995).](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf) (ANSI Snapshot Isolation)
 
 [Weak consistency: A generalized theory and optimistic implementations for distributed transactions, Adya. (1999).](http://pmg.csail.mit.edu/papers/adya-phd.pdf) (Graph-based isolation level definitions of PL-{2+, 2L, SI, FCV, MSR, CS, SU})
 
@@ -24,9 +24,9 @@ A curated selection of materials discussing transactional and non-transactional 
 
 [A read-only transaction anomaly under snapshot isolation, Fekete et al., (2004).](https://dl.acm.org/doi/10.1145/1031570.1031573)
 
-[Database Replication Using Generalized Snapshot Isolation, Elnikety et al., (2005).](https://infoscience.epfl.ch/record/53561/files/srds2005-gsi.pdf) (Generalised Snapshot Isolation, Prefix Consistent SI)
+[Database Replication Using Generalized Snapshot Isolation, Elnikety et al., (2005).](https://infoscience.epfl.ch/record/53561/files/srds2005-gsi.pdf) (Generalised Snapshot Isolation, Prefix Consistent SI, Conventional SI)
 
-[Lazy Database Replication with Snapshot Isolation, Daudjee et al., (2006).](http://www.vldb.org/conf/2006/p715-daudjee.pdf) (Strong Session SI)
+[Lazy Database Replication with Snapshot Isolation, Daudjee et al., (2006).](http://www.vldb.org/conf/2006/p715-daudjee.pdf) (Strong SI, Strong Session SI, Weak SI)
 
 [Eventually Consistent, Vogels, (2009).](https://dl.acm.org/doi/pdf/10.1145/1435417.1435432) (Eventual, Causal, Read Your Writes, Sessionm Monotonic Read, Monotonic Write Consistency)
 
