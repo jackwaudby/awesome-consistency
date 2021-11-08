@@ -28,7 +28,7 @@ A curated selection of materials discussing transactional and non-transactional 
 
 [Lazy Database Replication with Snapshot Isolation, Daudjee et al., (2006).](http://www.vldb.org/conf/2006/p715-daudjee.pdf) (Strong SI, Strong Session SI, Weak SI)
 
-[Eventually Consistent, Vogels, (2009).](https://dl.acm.org/doi/pdf/10.1145/1435417.1435432) (Eventual, Causal, Read Your Writes, Sessionm Monotonic Read, Monotonic Write Consistency)
+[Eventually Consistent, Vogels, (2009).](https://dl.acm.org/doi/pdf/10.1145/1435417.1435432) (Eventual, Causal, Read Your Writes, Session Monotonic Read, Monotonic Write Consistency)
 
 [Transactional storage for geo-replicated systems, Sovran et al., (2011).](http://www.news.cs.nyu.edu/~jinyang/pub/walter-sosp11.pdf) (Parallel
 Snapshot Isolation)
