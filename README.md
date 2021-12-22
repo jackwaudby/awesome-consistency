@@ -51,7 +51,7 @@ Snapshot Isolation)
 
 [Elle: Inferring Isolation Anomalies from Experimental Observations, Kingsbury et al., (2021).](https://arxiv.org/pdf/2003.10554.pdf)
 
-Additional relevant papers can be found [here](https://github.com/jackwaudby/awesome-consistency/timeline.md)
+Additional relevant papers can be found [here](https://github.com/jackwaudby/awesome-consistency/blob/main/timeline.md).
 
 ## Blog Posts
 
