@@ -1,6 +1,6 @@
-# Awesome Consistency 
+# Awesome Consistency
 
-A curated selection of materials discussing transactional and non-transactional consistency models. 
+A curated selection of materials discussing transactional and non-transactional consistency models.
 
 ## Papers
 
@@ -45,14 +45,15 @@ Snapshot Isolation)
 
 [Consistency in Non-Transactional Distributed Storage Systems, Viotti et al., (2016).](https://arxiv.org/pdf/1512.00168.pdf) (Excellent survey of non-transactional semantics)
 
-[Seeing is Believing: A Client-Centric Specification of Database Isolation, Crooks et al., (2017).](http://www.cs.cornell.edu/lorenzo/papers/Crooks17Seeing.pdf) (State-based isolation level definitions) 
+[Seeing is Believing: A Client-Centric Specification of Database Isolation, Crooks et al., (2017).](http://www.cs.cornell.edu/lorenzo/papers/Crooks17Seeing.pdf) (State-based isolation level definitions)
 
 [Fast General Distributed Transactions with Opacity, Shamis et al., (2019).](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/mod057.pdf) (Opacity)
 
 [Elle: Inferring Isolation Anomalies from Experimental Observations, Kingsbury et al., (2021).](https://arxiv.org/pdf/2003.10554.pdf)
 
+Additional relevant papers can be found [here](https://github.com/jackwaudby/awesome-consistency/timeline.md)
 
-## Blog Posts 
+## Blog Posts
 
 ### Daniel Abadi
 
@@ -72,27 +73,3 @@ Snapshot Isolation)
 ### Martin Kleppmann
 
 + [Hermitage: Testing the "I" in ACID](https://martin.kleppmann.com/2014/11/25/hermitage-testing-the-i-in-acid.html)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
